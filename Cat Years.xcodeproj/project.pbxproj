@@ -13,6 +13,7 @@
 		4890A07D1B6CF7170052322C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4890A07C1B6CF7170052322C /* Images.xcassets */; };
 		4890A0801B6CF7170052322C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4890A07E1B6CF7170052322C /* LaunchScreen.xib */; };
 		4890A08C1B6CF7170052322C /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4890A08B1B6CF7170052322C /* Cat_YearsTests.swift */; };
+		4890A0961B6CF8400052322C /* 19433.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4890A0951B6CF8400052322C /* 19433.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		4890A0851B6CF7170052322C /* Cat YearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4890A08A1B6CF7170052322C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4890A08B1B6CF7170052322C /* Cat_YearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsTests.swift; sourceTree = "<group>"; };
+		4890A0951B6CF8400052322C /* 19433.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 19433.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				4890A0751B6CF7170052322C /* AppDelegate.swift */,
 				4890A0771B6CF7170052322C /* ViewController.swift */,
 				4890A0791B6CF7170052322C /* Main.storyboard */,
+				4890A0951B6CF8400052322C /* 19433.jpg */,
 				4890A07C1B6CF7170052322C /* Images.xcassets */,
 				4890A07E1B6CF7170052322C /* LaunchScreen.xib */,
 				4890A0731B6CF7170052322C /* Supporting Files */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4890A0961B6CF8400052322C /* 19433.jpg in Resources */,
 				4890A07B1B6CF7170052322C /* Main.storyboard in Resources */,
 				4890A0801B6CF7170052322C /* LaunchScreen.xib in Resources */,
 				4890A07D1B6CF7170052322C /* Images.xcassets in Resources */,
